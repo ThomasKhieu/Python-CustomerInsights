@@ -1,4 +1,4 @@
 # Python
-![](pleasedo.gif)
+![](pleasedo.gif)![](best.gif)
 
-Please do
+How many gif can we put in a single README
