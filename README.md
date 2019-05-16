@@ -5,4 +5,4 @@
 
 ![](piano.gif)
 
-How many gif can we put in a single README
+How many gifs can I put in a single README
